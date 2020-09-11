@@ -17,6 +17,7 @@ run = True
 szamlalo = 0
 hanyszor_fusson = int(input("Hányszor fusson le a program"))
 
+
 while run:
     print("hello %d" % szamlalo)
     szamlalo+=1
